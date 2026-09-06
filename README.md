@@ -12,8 +12,6 @@ Currently, I am focusing on:
 - Machine learning and computer vision
 - Writing clean and maintainable code
 
-## 🛠 Tech Stack
-
 ### Programming languages
 - Go
 - Python
@@ -32,7 +30,7 @@ Currently, I am focusing on:
 - YOLO
 - Data analysis
 
-## 🚀 Projects
+## Projects
 
 ### Coin Counter
 Computer vision project for detecting coins and calculating their total value using YOLO.
